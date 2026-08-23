@@ -1,6 +1,6 @@
 # Awesome-Ad-Mediation-Platform
 
-# Top Ad Mediation Platform Ecosystem
+## Top Ad Mediation Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Mobile Ad Monetization, Waterfall & Bidding Mediation, Cross-Network Optimization & Publisher Revenue Maximization*
