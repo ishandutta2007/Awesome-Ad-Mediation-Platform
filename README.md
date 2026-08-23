@@ -22,35 +22,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[AppLovin MAX](https://www.applovin.com/max/)**  
-  Leading mediation platform with strong in-app bidding, high eCPM performance (especially in Tier-1 markets), broad network support, and tight integration with AppLovin demand.
-
-- **[Unity LevelPlay](https://unity.com/products/levelplay)**  
-  Unity’s mediation platform (formerly ironSource) optimized for games, offering advanced segmentation, A/B testing, bidding, and native Unity Ads demand.
-
-- **[Google AdMob Mediation](https://admob.google.com/)**  
-  Google’s mediation solution that combines AdMob demand with third-party networks via open-source and versioned adapters, supporting both waterfall and bidding.
-
-- **[Chartboost Mediation](https://www.chartboost.com/)**  
-  Mediation platform focused on mobile games with bidding capabilities and Chartboost’s own demand.
-
-- **[TopOn](https://www.toponad.com/)**  
-  Popular mediation platform (especially in Asia and among hyper-casual/mid-core publishers) offering strong optimization tools and multi-network support.
-
-- **[CAS.AI](https://cas.ai/)**  
-  Ad mediation platform providing automated optimization, multiple networks, and tools aimed at maximizing publisher revenue.
-
-- **[TradPlus](https://www.tradplus.com/)**  
-  Mediation solution with a focus on global publishers, bidding, and performance optimization across networks.
-
-- **[Yodo1 MAS](https://www.yodo1.com/)**  
-  Mediation and monetization platform tailored for game publishers, offering network aggregation and optimization features.
-
-- **[Appodeal](https://appodeal.com/)**  
-  All-in-one mediation and monetization platform with automated tools, multiple ad formats, and publisher-friendly features.
-
-- **[Chartboost](https://www.chartboost.com/)**  
-  Ad network and mediation platform popular in the mobile gaming space for interstitials, rewarded video, and playable ads.
+| Platform | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[AppLovin MAX](https://www.applovin.com/max/)** | Leading mobile mediation platform with real-time in-app bidding, cross-network waterfall optimization, and deep integration with AppLovin Exchange (ALX). | **$0 platform fee** (0% publisher fee for 3rd-party mediation; monetizes via ~5% buyer fee on ALX exchange) | **Free forever** with unlimited apps, ad requests, impressions, and unrestricted access to in-app bidding & reporting. |
+| **[Unity LevelPlay](https://unity.com/products/levelplay)** | Unity’s ad mediation platform (formerly ironSource) optimized for games, offering advanced user segmentation, A/B testing, real-time bidding, and Unity Ads integration. | **$0 platform fee** (0% publisher cut on third-party network mediation; monetized through Unity Ads demand ecosystem) | **Free forever** with unlimited impressions, apps, waterfalls, and ad units with no user or revenue caps. |
+| **[Google AdMob Mediation](https://admob.google.com/)** | Google’s mediation platform combining AdMob demand with 30+ 3rd-party ad networks via open-source/versioned adapters for waterfall and bidding. | **$0 platform fee** (0% mediation fee for 3rd-party networks; standard Google revenue share applies solely to AdMob Network demand: 68% publisher / 32% Google cut) | **Free forever** with unlimited mediated ad requests, impressions, and app integrations without usage limits. |
+| **[Chartboost Mediation](https://www.chartboost.com/)** | Unified auction and mediation platform (formerly Helium) focused on mobile games, interstitial, rewarded video, and playable ad monetization. | **$0 platform fee** (0% upfront/monthly SDK license fee; monetized via auction demand and optional payout processing fees e.g. $10–$25 per wire transfer) | **Free forever** with unlimited ad impressions, apps, and access to unified programmatic auction without usage caps. |
+| **[TopOn](https://www.toponad.com/)** | Mediation management tool offering waterfall optimization, multi-network in-app bidding, and analytics tailored for hyper-casual and mid-core publishers. | **$0 platform fee** (0% commission on 3rd-party network mediation using own accounts; separate terms apply for optional TopOn ADX programmatic exchange) | **Free forever** with unlimited ad requests, apps, SDK mediation features, and reporting with no time limits. |
+| **[CAS.AI](https://cas.ai/)** | Automated ad mediation platform (Clever Ads Solutions) providing unified auctions, waterfall management, and automated yield optimization across 30+ ad networks. | **10% revenue share** on generated ad revenue (0% upfront fee, $0/month base cost) | **Free integration forever** with $0 upfront cost, no trial expiration, and full access to 30+ demand sources (10% rev-share applies to earnings). |
+| **[TradPlus](https://www.tradplus.com/)** | Global mobile ad mediation solution supporting multi-network bidding, transparent waterfall analytics, and automated eCPM optimization. | **$0 platform fee** (0% fee for standard 3rd-party network mediation; monetized via optional TPX programmatic exchange & VisiX services) | **Free forever** with unlimited DAU, ad impressions, mediated networks, and analytics access without caps. |
+| **[Yodo1 MAS](https://www.yodo1.com/)** | Managed Ad Services platform aggregating 17+ ad networks, automated waterfall/bidding optimization, and unified account management for mobile games. | **15% revenue share** on mediated ad revenue (0% upfront fee, $0/month subscription cost) | **Free integration forever** with $0 upfront cost, no trial expiration, and full access to 17+ ad networks and auto-optimization (15% rev-share applies to earnings). |
+| **[Appodeal](https://appodeal.com/)** | All-in-one growth and ad mediation platform featuring automated yield optimization, 70+ ad demand sources, in-app bidding, and built-in BI analytics. | **$0 platform fee** (0% base software fee for mediation SDK and BI tools; monetized via demand partnerships and optional accelerator revenue share) | **Free forever** with unlimited impressions, unlimited apps, full access to 70+ ad demand sources, and BI analytics tools. |
 
 ## Open-Source GitHub Projects
 
